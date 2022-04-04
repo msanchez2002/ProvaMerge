@@ -22,6 +22,8 @@ public class ProvaMerge2 {
         
         System.out.println("C");
         
+        System.out.println("D");
+        
     }
     
 }
